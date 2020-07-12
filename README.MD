@@ -1,5 +1,3 @@
-adb reverse tcp:3333 tcp:3333
-
 # Desafio GoStack: Gomarketplace
 Projeto desenvolvido durante a Semana 3 do bootcamp GoStack, construindo a aplicação Gomarketplace, explorando conceitos de React Native como:
 - [x] React Hooks
